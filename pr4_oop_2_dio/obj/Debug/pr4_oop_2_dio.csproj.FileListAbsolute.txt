@@ -1,0 +1,19 @@
+d:\student\documents\visual studio 2015\Projects\pr4_oop_2_dio\pr4_oop_2_dio\bin\Debug\pr4_oop_2_dio.exe.config
+d:\student\documents\visual studio 2015\Projects\pr4_oop_2_dio\pr4_oop_2_dio\bin\Debug\pr4_oop_2_dio.exe
+d:\student\documents\visual studio 2015\Projects\pr4_oop_2_dio\pr4_oop_2_dio\bin\Debug\pr4_oop_2_dio.pdb
+d:\student\documents\visual studio 2015\Projects\pr4_oop_2_dio\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.Form1.resources
+d:\student\documents\visual studio 2015\Projects\pr4_oop_2_dio\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.Properties.Resources.resources
+d:\student\documents\visual studio 2015\Projects\pr4_oop_2_dio\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.csproj.GenerateResource.Cache
+d:\student\documents\visual studio 2015\Projects\pr4_oop_2_dio\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.exe
+d:\student\documents\visual studio 2015\Projects\pr4_oop_2_dio\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.pdb
+D:\Student\Documents\Visual Studio 2015\Projects\pr4_oop_2_dio\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.csprojResolveAssemblyReference.cache
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.csprojResolveAssemblyReference.cache
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.Form1.resources
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.Properties.Resources.resources
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.csproj.GenerateResource.Cache
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.csproj.CoreCompileInputs.cache
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.exe
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\obj\Debug\pr4_oop_2_dio.pdb
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\bin\Debug\pr4_oop_2_dio.exe.config
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\bin\Debug\pr4_oop_2_dio.exe
+C:\Users\VOVA\Desktop\lv3OOp (1)\lv3OOp\pr4_oop_2_dio\bin\Debug\pr4_oop_2_dio.pdb
